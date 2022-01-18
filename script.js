@@ -1,10 +1,3 @@
-const firstName = "Joe";
-const lastName = "Perez";
-const ssn = 1234567;
-
-console.log(`<p>${firstName} ${lastName} has a social ${ssn}</p>`);
-
-
 /**
  * Create a Backpack object.
  */
